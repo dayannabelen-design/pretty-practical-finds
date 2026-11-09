@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prettypractical.netlify.app/sitemap.xml

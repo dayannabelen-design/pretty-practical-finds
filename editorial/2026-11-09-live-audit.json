@@ -1,0 +1,292 @@
+{
+  "checked_on": "2026-11-09",
+  "canonical": "https://prettypractical.netlify.app/",
+  "pages": [
+    {
+      "url": "https://prettypractical.netlify.app/",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/rustic-bread.jpg",
+        "/images/baker-gift-guide.jpg",
+        "/images/banana-recipe.jpg",
+        "/images/milk-recipe.jpg",
+        "/images/essentials.jpg",
+        "/images/pan-guide.jpg",
+        "/images/scale-guide.jpg",
+        "/images/bread-storage.jpg",
+        "/images/bench-scraper.jpg",
+        "/images/cooling-bread.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/about",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/about"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/rustic-bread.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/banana-bread-grams-9x5",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/banana-bread-grams-9x5"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/banana-recipe.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/bench-scraper-vs-bowl-scraper",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/bench-scraper-vs-bowl-scraper"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B00004OCNJ?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/bench-scraper.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/cool-bread-before-slicing",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/cool-bread-before-slicing"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B07BZJ9ZK4?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/cooling-bread.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/digital-kitchen-scale-bread",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/digital-kitchen-scale-bread"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B0007GAWRS?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/scale-guide.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/evaporated-milk-sandwich-bread",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/evaporated-milk-sandwich-bread"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/milk-recipe.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/gifts-for-bakers-bread-makers",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/gifts-for-bakers-bread-makers"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B0948NDJ3W?tag=theprettypr0a-20&linkCode=ll1",
+        "https://www.amazon.com/dp/B088P4DXBH?tag=theprettypr0a-20&linkCode=ll1",
+        "https://www.amazon.com/dp/B07MWDD8TZ?tag=theprettypr0a-20&linkCode=ll1",
+        "https://www.amazon.com/dp/B00004OCNJ?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/baker-gift-guide.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/loaf-pan-8x4-vs-9x5",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/loaf-pan-8x4-vs-9x5"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B002UNMZOO?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/pan-guide.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/recipes",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/recipes"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/banana-recipe.jpg",
+        "/images/milk-recipe.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/sandwich-bread-tools",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/sandwich-bread-tools"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B0007GAWRS?tag=theprettypr0a-20&linkCode=ll1",
+        "https://www.amazon.com/dp/B002UNMZOO?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/essentials.jpg"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/sourdough-starter-basics",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/sourdough-starter-basics"
+      ],
+      "paid_links": [],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png"
+      ]
+    },
+    {
+      "url": "https://prettypractical.netlify.app/store-homemade-bread",
+      "status": 200,
+      "changed_since_nov8": false,
+      "h1": 1,
+      "canonical": [
+        "https://prettypractical.netlify.app/store-homemade-bread"
+      ],
+      "paid_links": [
+        "https://www.amazon.com/dp/B0DGN9C8QF?tag=theprettypr0a-20&linkCode=ll1"
+      ],
+      "missing_fragments": [],
+      "assets": [
+        "/style.css?v=gifts1",
+        "/images/pretty-practical-logo.png",
+        "/images/bread-storage.jpg"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset": "/images/baker-gift-guide.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/banana-recipe.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/bench-scraper.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/bread-storage.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/cooling-bread.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/essentials.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/milk-recipe.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/pan-guide.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/pretty-practical-logo.png",
+      "status": 200
+    },
+    {
+      "asset": "/images/rustic-bread.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/images/scale-guide.jpg",
+      "status": 200
+    },
+    {
+      "asset": "/style.css?v=gifts1",
+      "status": 200
+    }
+  ],
+  "publication": "None; Netlify and social services require authenticated access."
+}

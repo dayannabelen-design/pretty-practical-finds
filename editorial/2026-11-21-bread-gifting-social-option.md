@@ -8,7 +8,7 @@ Bringing homemade bread to Thanksgiving? Make the bag fit the loaf before you re
 
 Let the loaf cool completely, then wrap it for the bread you're giving and when it will be eaten. Add a tag with the bread's name and a short storage note. The last little job is the one your host will appreciate tomorrow morning.
 
-The guide contains paid links. As an Amazon Associate I earn from qualifying purchases.
+
 
 https://prettypractical.netlify.app/wrap-homemade-bread-for-gifts?utm_source=facebook&utm_medium=organic_social&utm_campaign=thanksgiving_bread_gift_fit
 
@@ -16,7 +16,7 @@ https://prettypractical.netlify.app/wrap-homemade-bread-for-gifts?utm_source=fac
 
 **Title:** How to Wrap Homemade Bread for a Thanksgiving Gift
 
-**Description:** Check the bag opening and room to close it, cool the loaf before wrapping, and include a simple storage note for the recipient. The guide contains paid links. As an Amazon Associate I earn from qualifying purchases.
+**Description:** Check the bag opening and room to close it, cool the loaf before wrapping, and include a simple storage note for the recipient. 
 
 **Destination:** https://prettypractical.netlify.app/wrap-homemade-bread-for-gifts?utm_source=pinterest&utm_medium=organic_social&utm_campaign=thanksgiving_bread_gift_fit
 
@@ -24,7 +24,7 @@ https://prettypractical.netlify.app/wrap-homemade-bread-for-gifts?utm_source=fac
 
 **Overlay:** Bringing bread to Thanksgiving?
 
-**Alt text:** Use the original image's published alt text when creating the pin. Keep the loaf and wrapping visible in a 2:3 composition, with the headline in a separate margin.
+**Alt text:** Illustration of an artisan loaf inside a clear bag, finished with a kraft paper band, twine and a blank gift tag. Keep the loaf and wrapping visible in a 2:3 composition, with the headline in a separate margin.
 
 ## Fresh buyer research
 
@@ -34,8 +34,10 @@ King Arthur's [bread storage guide](https://www.kingarthurbaking.com/blog/2020/0
 
 ## Publishing and measurement
 
-Retain the disclosure because the destination guide contains paid links. The post copy links to the editorial page. No Amazon destination was clicked and no new paid link was created.
+The current destination guide contains no Amazon or paid shopping links, verified by reading all external anchors on November 21. This pair therefore needs no affiliate disclosure in its current form. If paid links are later added, add a conspicuous disclosure before posting. No Amazon destination was clicked and no new paid link was created.
 
 Facebook needs authenticated access to ThePrettyPractical Page, and Pinterest needs the confirmed account and board. Those connections remain unverified here. Check existing posts before publishing to avoid repeating the prior bread-gifting share. Netlify's acknowledged November 23 publishing check remains the recorded next step for new articles. Analytics, Search Console and Associates reports were unavailable. Record actual post URLs and referral activity after publication, with commissions only when Associates reports support them.
 
 No public or social publication occurred today.
+
+November 21 live audit: 18 sitemap pages and 20 images loaded with matching canonical URLs, descriptions and sharing images. No issues appeared.
